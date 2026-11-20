@@ -8,8 +8,9 @@
 
 ## 1. TIẾN ĐỘ THỰC HIỆN TỔNG QUAN
 - **Tổng số đề tài đã thẩm định:** 10 bài viết
-- **Đã hoàn thành:** 01 bài (Post 26280)
+- **Đã hoàn thành:** 01 bài (Post 26280 - đã ghi nhận Dòng 4 trên Google Sheet)
 - **Đang chờ viết (Pending):** 09 bài
+- **Bảng theo dõi tiến độ tự động:** [Google Sheet 2Pro Tiến độ SEO](https://docs.google.com/spreadsheets/d/1UZ2fuxKH5tXYXrtzDspHbKY7rFcZemBLvYvoBFcU4ko/edit?pli=1&gid=0#gid=0)
 
 ---
 
