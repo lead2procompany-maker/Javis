@@ -1,44 +1,39 @@
-# KẾ HOẠCH NỘI DUNG SEO BLOG 2PRO (CONTENT PIPELINE 2026)
+# KẾ HOẠCH NỘI DUNG SEO BLOG 2PRO (CONTENT PIPELINE 2026 - BẢN THẨM ĐỊNH THỰC TẾ)
 
-> Kho đề tài Topic Cluster đã được thẩm định rà soát GSC, khóa từ khóa chính, từ khóa phụ và kiểm tra chống ăn thịt từ khóa (Cannibalization).
-> Javis tự động lấy đề tài tiếp theo ở trạng thái `Pending` để viết bài siêu tốc, bỏ qua bước cào GSC lặp lại.
+> **CĂN CỨ THẨM ĐỊNH 100% THEO DỮ LIỆU LIVE:**
+> 1. **Kho sản phẩm thực tế**: Chỉ viết những mặt hàng 2Pro thực sự có sẵn trong kho WooCommerce (bỏ hoàn toàn hộp cảm ứng hay sản phẩm không kinh doanh).
+> 2. **Chống ăn thịt từ khóa (Zero Cannibalization)**: Đã đối chiếu rà soát toàn bộ 60+ bài blog hiện có trên 2pro.biz, cam kết 100% không trùng Intent với các bài đã đăng (như Post 26223 ủng cao su, Post 26194 hộp xà phòng inox, Post 26208 hộp giấy lau tay, Post 26161 giá treo dụng cụ...).
 
 ---
 
 ## 1. TIẾN ĐỘ THỰC HIỆN TỔNG QUAN
-
-- **Tổng số đề tài:** 15 bài viết
-- **Đã xuất bản nháp:** 01 bài (Post 26280)
-- **Đang chờ viết (Pending):** 14 bài
+- **Tổng số đề tài đã thẩm định:** 10 bài viết
+- **Đã hoàn thành:** 01 bài (Post 26280)
+- **Đang chờ viết (Pending):** 09 bài
 
 ---
 
-## 2. BẢNG DANH MỤC TOPIC CLUSTER & PIPELINE CHI TIẾT
+## 2. BẢNG DANH MỤC TOPIC CLUSTER ĐÃ RÀ SOÁT LIVE
 
-| ID | Nhóm ngành hàng | Tiêu đề H1 dự kiến | Từ khóa chính | Dàn từ khóa phụ (LSI) | Sản phẩm 2Pro đối chiếu | Trạng thái |
+| ID | Nhóm ngành hàng | Tiêu đề H1 dự kiến | Từ khóa chính (Informational) | Dàn từ khóa phụ (LSI) | Sản phẩm 2Pro có sẵn đối chiếu | Trạng thái |
 | :---: | :--- | :--- | :--- | :--- | :--- | :---: |
-| **01** | Dụng cụ vệ sinh | **Checklist dụng cụ vệ sinh nhà xưởng theo 4 khu vực, mã màu và cách bảo quản** | checklist dụng cụ vệ sinh nhà xưởng | dụng cụ vệ sinh nhà xưởng gồm những gì, checklist vệ sinh nhà xưởng, phân loại dụng cụ vệ sinh nhà xưởng, mã màu dụng cụ vệ sinh, dụng cụ vệ sinh khu sản xuất, dụng cụ vệ sinh kho hàng, bảo quản dụng cụ vệ sinh nhà xưởng, biểu mẫu kiểm tra dụng cụ vệ sinh | Cây lau Sanho, Xe vắt B-045, Xô ChaoBao | **Done (Post 26280)** |
-| **02** | Dụng cụ lau sàn | **Tiêu chuẩn chọn cây gạt nước sàn công nghiệp cán dài inox cho nhà xưởng thực phẩm** | cách chọn cây gạt nước sàn công nghiệp | cây gạt nước sàn inox, cây gạt sàn lưỡi cao su, kích thước cây gạt nước sàn nhà xưởng, cây gạt nước sàn công nghiệp 45cm 55cm, thanh gạt nước sàn cao su, dụng cụ gạt nước sàn bếp ăn, bảo quản lưỡi cao su gạt sàn | Cây gạt nước sàn inox 45cm, 55cm, 75cm | **Pending** |
-| **03** | Thiết bị gom giẻ & xe | **So sánh xe vắt mop đôi 60L và xô vắt đơn 20L-32L: Nên chọn loại nào cho công trình?** | so sánh xe vắt mop đôi và xô vắt đơn | xe vắt móp 46l, xe vắt móp đôi b-045, xô vắt nước cây lau sàn 32l, xe vắt cây lau nhà công nghiệp, xe vắt nước lau sàn 2 ngăn, kích thước xe vắt móp đôi, giá xe vắt mop công nghiệp | Xe vắt mop đôi B-045 60L, Xe vắt đơn 32L | **Pending** |
-| **04** | Dụng cụ lau sàn | **Cách bảo dưỡng và giặt tấm giẻ lau microfiber công nghiệp chống hôi mốc, bết dính** | cách giặt tấm lau sàn microfiber | bảo dưỡng giẻ lau công nghiệp, giẻ lau microfiber bị hôi, cách tẩy trắng giẻ lau sàn, thay tấm lau sanho 45cm 60cm, quy trình giặt đầu lau nhà xưởng, tấm lau microfiber dệt san hô, tuổi thọ giẻ lau công nghiệp | Tấm giẻ lau Sanho 45cm, 60cm, 90cm | **Pending** |
-| **05** | Hộp đựng xà phòng | **Tiêu chuẩn chọn hộp đựng xà phòng cảm ứng tự động cho bệnh viện và phòng khám** | cách chọn hộp đựng xà phòng cảm ứng | bình xịt xà phòng cảm ứng treo tường, hộp đựng cồn sát khuẩn cảm ứng, hộp xà phòng cảm ứng bệnh viện, máy xịt cồn tự động treo tường, bình đựng nước rửa tay cảm ứng y tế, pin máy xịt xà phòng cảm ứng | Hộp đựng xà phòng cảm ứng 2Pro | **Pending** |
-| **06** | Hộp đựng xà phòng | **Kinh nghiệm chọn bình đựng nước rửa tay inox 304 gắn tường cần gạt chữ T khách sạn** | bình đựng xà phòng inox gắn tường cần gạt chữ t | hộp đựng nước rửa tay gắn tường inox 304, bình đựng xà phòng gạt tay chữ t, hộp xà phòng gạt tay khách sạn, bình xà phòng treo tường 500ml 1000ml, van bơm hộp xà phòng inox, cách lắp bình xà phòng gạt chữ t | Bình đựng xà phòng inox 304 cần gạt chữ T | **Pending** |
-| **07** | Hộp đựng xà phòng | **Cách khắc phục sự cố kẹt van, rò rỉ xà phòng ở bình rửa tay treo tường trong 5 phút** | cách sửa hộp đựng xà phòng bị rò rỉ | bình xà phòng treo tường bị kẹt van, cách súc rửa van hộp đựng xà phòng, thay van bơm bình xà phòng, van bơm xà phòng nhỏ giọt, bảo dưỡng hộp đựng xà phòng gắn tường, cách thông ống bơm nước rửa tay | Bình xà phòng inox, Nhựa ABS 2Pro | **Pending** |
-| **08** | Hộp đựng giấy vệ sinh | **Tiêu chuẩn chọn hộp đựng giấy vệ sinh cuộn lớn gắn tường cho tòa nhà văn phòng** | cách chọn hộp đựng giấy vệ sinh cuộn lớn | hộp đựng giấy vệ sinh cuộn lớn inox 304, hộp giấy jumbo roll nhựa abs, kích thước hộp đựng giấy vệ sinh cuộn to, hộp đựng giấy cuộn lớn tòa nhà, hộp giấy vệ sinh có khóa chống mất cắp | Hộp đựng giấy cuộn lớn Inox & ABS | **Pending** |
-| **09** | Hộp đựng giấy lau tay | **Cách chọn hộp đựng giấy lau tay gấp chữ Z và gấp 2 bằng nhựa ABS cho nhà hàng** | cách chọn hộp đựng giấy lau tay gấp | hộp đựng giấy lau tay gấp chữ z, hộp đựng giấy lau tay treo tường nhựa abs, kích thước hộp giấy lau tay đa năng, hộp rút giấy lau tay gắn tường, khay đựng giấy lau tay gấp 2 gấp 3 | Hộp đựng giấy lau tay nhựa ABS trắng | **Pending** |
-| **10** | Giấy y tế & Giấy vệ sinh | **So sánh chi phí dùng giấy vệ sinh cuộn lớn Jumbo vs cuộn nhỏ truyền thống** | so sánh giấy vệ sinh cuộn lớn và cuộn nhỏ | chi phí dùng giấy vệ sinh cuộn lớn, giấy vệ sinh jumbo roll tiết kiệm bao nhiêu, kích thước giấy vệ sinh cuộn lớn, giấy vệ sinh 2 lớp 700g 1000g, định mức giấy vệ sinh tòa nhà | Giấy vệ sinh cuộn lớn Sống Vàng 700g, 1000g | **Pending** |
-| **11** | Thảm chùi chân | **Cách chọn thảm chùi chân sảnh đón khách sạn đế cao su chống trơn trượt, giữ bụi** | cách chọn thảm chùi chân sảnh đón | thảm chùi chân khách sạn đế cao su, thảm gạt bụi sảnh tòa nhà, thảm san hô thấm nước nhà hàng, thảm trải lối vào sảnh chống trượt, thảm sợi nỉ gân đế cao su cao cấp | Thảm chùi chân sảnh đế cao su 2Pro | **Pending** |
-| **12** | Thảm chùi chân | **Quy chuẩn 3 bước thảm gạt bụi, hút ẩm lối ra vào cho tòa nhà văn phòng và TTTM** | quy chuẩn hệ thống thảm lối vào tòa nhà | thảm 3 bước lối ra vào, thảm gạt cát ngoài cửa, thảm thấm hút ẩm sảnh thang máy, thảm sợi cước gạt bùn đất, thảm chống trượt cửa xoay, kích thước thảm sảnh đón tòa nhà | Thảm cước zíc zắc, Thảm sợi nỉ sảnh | **Pending** |
-| **13** | Dụng cụ lau kính | **Trọn bộ dụng cụ lau kính tòa nhà gồm những gì và kỹ thuật gạt kính không để lại vệt** | bộ dụng cụ lau kính tòa nhà gồm những gì | cây gạt kính inox cán cao su, bông thỏ lau kính chuyên dụng, xô lau kính 2 ngăn chaobao, cách gạt kính không bị vệt mờ, kỹ thuật gạt kính hình chữ s, lưỡi cao su gạt kính thay thế | Bộ lau kính chuyên dụng ChaoBao | **Pending** |
-| **14** | Dụng cụ lau kính | **Cách chọn cây nối lau kính tăng đơ nhôm 3m, 6m hay 9m cho showroom và biệt thự** | cách chọn cây nối lau kính cán dài | cây nối lau kính tăng đơ nhôm 3m 6m 9m, cây lau kính trên cao cán nhôm rút, cán tăng đơ lau kính 2 đoạn 3 đoạn, dụng cụ lau kính trên cao an toàn, khớp khóa xoay cây nối lau kính | Cây nối nhôm tăng đơ 3m, 6m, 9m | **Pending** |
-| **15** | Bảo hộ lao động | **Tiêu chuẩn chọn ủng cao su chống trượt và chống dầu mỡ cho công nhân chế biến thủy sản** | cách chọn ủng cao su chống trượt | ủng cao su chế biến thực phẩm, ủng lội nước chống trơn trượt nhà xưởng, ủng bảo hộ đế vàng chống dầu mỡ, ủng trắng thủy sản đế bám sàn, ủng cao su cổ cao nữ nam | Ủng cao su Thùy Dương, Hoa San | **Pending** |
+| **01** | Dụng cụ lau sàn | **Checklist dụng cụ vệ sinh nhà xưởng theo 4 khu vực, mã màu và cách bảo quản** | checklist dụng cụ vệ sinh nhà xưởng | dụng cụ vệ sinh nhà xưởng gồm những gì, checklist vệ sinh nhà xưởng, phân loại dụng cụ vệ sinh nhà xưởng, mã màu dụng cụ vệ sinh... | Cây lau Sanho, Xe vắt B-045, Xô ChaoBao | **Done (Post 26280)** |
+| **02** | Dụng cụ lau sàn | **Cách chọn cây gạt nước sàn cán dài inox lưỡi cao su cho nhà xưởng và bếp ăn** | cách chọn cây gạt nước sàn cán dài | cây gạt nước sàn cán dài lưỡi cao su, kích thước cây gạt nước sàn inox, cây lùa nước sàn nhà xưởng, cây gạt sàn nhà vệ sinh cán dài, lưỡi cao su gạt nước sàn thay thế | Cây gạt nước cán dài 70-140cm (Product 24039) | **Pending** |
+| **03** | Dụng cụ lau kính | **Trọn bộ dụng cụ lau kính tòa nhà gồm những gì và kỹ thuật gạt kính chữ S không đọng vệt** | bộ dụng cụ lau kính tòa nhà gồm những gì | cây gạt kính inox lưỡi 40cm 45cm, bông thỏ lau kính cotton, dao cạo kính inox, kỹ thuật lau kính hình chữ s, lưỡi cao su gạt kính thay thế 105cm, xô lau kính có bánh xe | Bộ gạt kính inox 40/45cm, Bông lau kính, Xô lau kính (Product 25228, 25258, 25117, 25246) | **Pending** |
+| **04** | Dụng cụ lau kính | **Cách chọn cây nối lau kính cán dài nhôm tăng đơ 6m hay 9m cho showroom và biệt thự** | cách chọn cây nối lau kính cán dài | cây nối lau kính tăng đơ nhôm 6m 9m, cây lau kính trên cao cán nhôm rút, dụng cụ lau kính trên cao an toàn, cán tăng đơ lau kính 3 đoạn, khớp khóa xoay cây nối lau kính | Cây nối lau kính 6m, 9m (Product 25226, 25207) | **Pending** |
+| **05** | Hóa chất nhà hàng | **Cách chọn hóa chất cho máy rửa bát công nghiệp: Bộ đôi rửa kiềm và tráng mau khô** | hóa chất cho máy rửa bát công nghiệp | nước rửa bát cho máy công nghiệp saraya, nước tráng bát máy rửa bát công nghiệp, nước tráng mau khô ly chén đĩa, nước rửa bát kiềm cao can 20l, tỉ lệ pha hóa chất máy rửa bát | Nước rửa Smartsan D-2 & Nước tráng Rinse Agent DR-2 can 20L (Product 25940, 25944) | **Pending** |
+| **06** | Thảm sàn | **Tiêu chuẩn chọn thảm nhựa rối chùi chân sợi xoắn vòng dày 11mm cho lối vào đông người** | cách chọn thảm nhựa rối chùi chân | thảm nhựa rối chùi chân khổ 120x150cm, thảm nhựa sợi xoắn chống trượt, thảm chùi chân nhựa rối màu cam đỏ ghi, thảm trải lối vào sảnh chống trơn, độ bền thảm nhựa rối | Thảm nhựa rối chùi chân dày 11mm (Product 25527) | **Pending** |
+| **07** | Bảo hộ lao động | **Kinh nghiệm chọn giày sục bảo hộ y tế kín mũi chống trượt cho bệnh viện và nhà bếp** | cách chọn giày sục bảo hộ y tế | giày sục kín mũi jogger bestclog, giày dép chống trơn trượt phòng mổ, dép sục bảo hộ nhà bếp khách sạn, giày bảo hộ y tế chính hãng, giày sục eva chống nước | Giày sục kín mũi Jogger Bestclog chính hãng (Product 26264) | **Pending** |
+| **08** | Bảo hộ lao động | **Cách chọn tạp dề nhựa PVC chống thấm nước, chống dầu mỡ cho khu sơ chế và rửa khay** | cách chọn tạp dề nhựa pvc chống thấm | tạp dề nhựa pvc trong khổ 60x110cm, tạp dề chống thấm nước dầu mỡ hóa chất, tạp dề rửa bát công nghiệp, tạp dề bảo hộ công nhân chế biến, tạp dề yếm nhựa dẻo | Tạp dề nhựa PVC trong 60x110cm (Product 25160) | **Pending** |
+| **09** | Dụng cụ vệ sinh | **Lợi ích khi trang bị khay đựng dụng cụ vệ sinh chia khoang cho nhân viên buồng phòng** | khay đựng dụng cụ vệ sinh chia khoang | giỏ xách dụng cụ vệ sinh tạp vụ, xô chia ngăn đựng chai lọ hóa chất, khay nhựa để đồ lau dọn buồng phòng, cách sắp xếp dụng cụ dọn phòng khách sạn, khay xách tay tạp vụ | Khay đựng dụng cụ vệ sinh chia khoang (Product 25257) | **Pending** |
+| **10** | Thiết bị tiền sảnh | **Tiêu chuẩn chọn giá để ô dù nhiều ngăn có bánh xe và khay hứng nước cho sảnh tòa nhà** | cách chọn giá để ô dù sảnh tòa nhà | giá để ô dù 120 ngăn inox, kệ để ô dù có khay hứng nước, giá cắm ô dù có bánh xe tòa nhà, cách bố trí giá ô dù ngày mưa, kích thước giá để dù khách sạn | Giá để ô dù 120 ngăn có bánh xe (Product 25201) | **Pending** |
 
 ---
 
-## 3. CƠ CHẾ VẬN HÀNH CHO JAVIS (FAST-TRACK EXECUTION)
+## 3. CƠ CHẾ FAST-TRACK & AN TOÀN TUYỆT ĐỐI CHO JAVIS
 
-1. Khi người dùng chạy workflow `viet-blog-moi-2pro`:
-   - Nếu `input` để trống hoặc ghi "tiếp tục bài trong kế hoạch": Javis tự động đọc dòng đầu tiên có trạng thái `Pending` trong bảng này.
-   - Bỏ qua hoàn toàn bước cào dữ liệu GSC để vào thẳng bước Biên tập bài viết dựa trên từ khóa chính và dàn từ khóa phụ đã chốt sẵn.
-   - Sau khi bài nháp tạo thành công, tự động cập nhật trạng thái dòng đó thành `Done (Post <ID>)` và đồng bộ file lên GitHub.
-2. Khi toàn bộ 15 bài trong pipeline hoàn thành (`Pending` = 0), Javis sẽ tự động quét GSC một lượt mới để nạp tiếp đợt bài kế tiếp (Batch 2).
+1. **Khớp 100% kho hàng thật**: Mỗi bài viết đều có sản phẩm đối ứng thật sự của 2Pro đã được định danh bằng Product ID live.
+2. **Loại trừ 100% nguy cơ ăn thịt từ khóa (Cannibalization)**:
+   - Các đề tài đã có bài trên web (như Hộp đựng xà phòng inox 26194, Hộp giấy lau tay 26208, Ủng cao su 26223, Giá treo inox 26161, Cây lau sàn 26088...) đã được LOẠI BỎ TOÀN BỘ khỏi kế hoạch.
+   - Các sản phẩm không bán (như Hộp cảm ứng tự động) đã được LOẠI BỎ HOÀN TOÀN.
+3. **Khi chạy bài tiếp theo**: Javis sẽ tự động nhặt Bài số 02 (**Cách chọn cây gạt nước sàn cán dài inox lưỡi cao su**), viết ngay mà không mất thời gian quét lại GSC.
